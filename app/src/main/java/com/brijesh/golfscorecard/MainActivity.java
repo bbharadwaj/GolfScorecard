@@ -30,6 +30,8 @@ public class MainActivity extends ListActivity {
 
         //Initialise holes
 
+        //random comment to check git
+
         int strokes = 0;
         for (int i = 0; i < mHoles.length; i++ ){
             int labelcount = i+1;
